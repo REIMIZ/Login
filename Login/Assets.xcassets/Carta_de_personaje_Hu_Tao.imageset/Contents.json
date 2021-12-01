@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Carta_de_personaje_Hu_Tao.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
